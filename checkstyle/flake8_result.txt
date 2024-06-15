@@ -1,0 +1,27 @@
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:2:1: F401 'os' imported but unused
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:5:1: F401 'collections.defaultdict' imported but unused
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:8:80: E501 line too long (144 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:10:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:13:1: W293 blank line contains whitespace   
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:14:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:14:33: W291 trailing whitespace
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:22:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:25:80: E501 line too long (93 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:30:80: E501 line too long (88 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:31:1: W293 blank line contains whitespace   
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:34:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:40:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:54:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:63:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:78:1: E302 expected 2 blank lines, found 1  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:83:1: W293 blank line contains whitespace   
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:138:80: E501 line too long (80 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:155:80: E501 line too long (124 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:177:80: E501 line too long (87 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:179:80: E501 line too long (92 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:181:80: E501 line too long (124 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:197:1: W293 blank line contains whitespace  
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:204:25: E711 comparison to None should be 'if cond is not None:'
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:207:80: E501 line too long (84 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:209:80: E501 line too long (138 > 79 characters)
+D:\C_code\HIT_software_engneering-main\lab1gui_v2.py:223:1: E305 expected 2 blank lines after class or function definition, found 1
